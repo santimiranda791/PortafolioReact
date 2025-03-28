@@ -21,7 +21,7 @@ export const ItemSkillsBody = () => {
 <div>
     <p>React</p>
 <box-icon name='react' type='logo' animation='spin' color='#ffffff' size="15rem" ></box-icon>
-<progress value="50" max="100"></progress>
+<progress value="30" max="100"></progress>
 <span>30%</span>
 </div>
 </div>
