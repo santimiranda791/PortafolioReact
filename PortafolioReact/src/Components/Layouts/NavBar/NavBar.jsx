@@ -6,6 +6,11 @@ export const NavBar = () => {
   return (
     <nav>
       <ul className='List'>
+      <li>
+          <Link to="/">
+            <ItemNavbar contenido="Home" />
+          </Link>
+        </li>
         <li>
           <Link to="/education">
             <ItemNavbar contenido="Education" />
